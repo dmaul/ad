@@ -28,11 +28,11 @@ acceleration: dV/dt = (T - D - F) / m
 
 average acceleration point: V = VR / sqrt(2)
 
-distance from V0 to VR: s1 = 1/2 * (exp(VR, 2)/a)
+distance from V0 to VR: s1 = 1/2 * (exp(VR, 2) / a)
 
 obstacle: 35 ft 
 
-distancia from VR to obstacle clearance point : s2 = 35ft/tan(alfa)
+distance from VR to obstacle clearance point : s2 = 35ft / tan(alfa)
 
 
 
